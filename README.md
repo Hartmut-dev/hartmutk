@@ -1,6 +1,6 @@
 # Hartmut
 
-**Cybersecurity and Copmputer Science Student**
+**Cybersecurity and Computer Science Student**
 
 Looking into web development with a focus on security.
 
