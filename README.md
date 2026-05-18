@@ -16,5 +16,5 @@ Looking into web development with a focus on security.
 
 ### Connect
 - **Portfolio:** [hartmutk.dev](https://hartmutk.dev) (WIP)
-- **Email:** hello@hartmutk.dev
+- **Email:** root@hartmutk.dev
 - **LinkedIn:** 
